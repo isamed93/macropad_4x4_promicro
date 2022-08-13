@@ -1,0 +1,9 @@
+(fp_lib_table
+  (lib (name MX_Only)(type KiCad)(uri C:/Users/Irene/Documents/kicad_lib/MX_Alps_Hybrid-master/MX_Only.pretty)(options "")(descr ""))
+  (lib (name promicro)(type KiCad)(uri C:/Users/Irene/Documents/kicad_lib/ProMicroKiCad-master/promicro.pretty)(options "")(descr ""))
+  (lib (name Keebio-Parts)(type KiCad)(uri C:/Users/Irene/Documents/kicad_lib/Keebio-Parts.pretty)(options "")(descr ""))
+  (lib (name kbd-master)(type KiCad)(uri C:/Users/Irene/Documents/kicad_lib/kbd-master/kicad-footprints/kbd.pretty)(options "")(descr ""))
+  (lib (name tattoo_logo)(type KiCad)(uri C:/Users/Irene/Documents/KiCad_Projects/tattoo_logo.pretty)(options "")(descr ""))
+  (lib (name acheron_MX_PlateSlots)(type KiCad)(uri C:/Users/Irene/Documents/kicad_lib/AlexandriaLibrary/footprints/acheron_MX_PlateSlots.pretty)(options "")(descr ""))
+  (lib (name random-keyboard-parts)(type KiCad)(uri C:/Users/Irene/Documents/kicad_lib/random-keyboard-parts.pretty)(options "")(descr ""))
+)
